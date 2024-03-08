@@ -5,7 +5,7 @@ The LD matrix is a fundamental component in genetic studies, representing the li
 ## Getting Started
 you start to look at the Anti_dig_sum.py first, it is the orginal way that how we find the LD matrix boundaries. refer to the paper https://academic.oup.com/bioinformatics/article/32/2/283/1743626 
 our method is using the outer sum of the ld Matirx, please refer to the algorithm.
-here we are using the 1000 gene Phase 1, and we use Chromosome 2 with specfic region as an example.
+here we are using the 1000 Genomes phase 1, and we use Chromosome 2 with specfic region as an example.
 
 ### Prerequisites
 
